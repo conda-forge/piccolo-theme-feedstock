@@ -1,5 +1,5 @@
 {% set name = "piccolo-theme" %}
-{% set version = "0.12.0" %}
+{% set version = "0.14.0" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/piccolo_theme-{{ version }}.tar.gz
-  sha256: a3ab9aa80a3f35bdbc768072ab8d176a4289a40e28ebf67f3f332199bd39f051
+  sha256: 3c63dfd394d07c2e92a269f63d1d3b636aa23aeca0fb7ed4d65d7a9b62caca45
 
 build:
   number: 0
