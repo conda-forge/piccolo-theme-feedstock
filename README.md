@@ -1,11 +1,11 @@
-About piccolo-theme
-===================
+About piccolo-theme-feedstock
+=============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/piccolo-theme-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/piccolo-orm/piccolo_theme
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/piccolo-theme-feedstock/blob/main/LICENSE.txt)
 
 Summary: A modern Sphinx theme.
 
